@@ -46,3 +46,5 @@ https://www.geeksforgeeks.org/getopt-function-in-c-to-parse-command-line-argumen
 
 I used ChatGPT to help explain the functions in this readme file because I began working on this last week and forgot some of what I did :)
     I copied snippets of my code and asked ChatGPT to explain it to me. I then put its explanation into my own words. 
+
+I used one of my Makefiles from Dr. Unan's CS330 class last semester as a template for the one in this assignment.
